@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
 
-# 徹底的なUI排除（司令官のこだわりを継承）
+
 st.markdown("""
     <style>
     [data-testid="stSidebar"], section[data-testid="stSidebar"], .st-emotion-cache-16ids0d, .st-emotion-cache-6qob1r {
@@ -50,12 +50,10 @@ stranger_day_map = """
     let cw = canvas.width = window.innerWidth;
     let ch = canvas.height = window.innerHeight;
 
-    let _wx = 0; // worldXを隠蔽
-    let _cd = -1; // cowDirを隠蔽
+    let _wx = 0; // 
+    let _cd = -1; //
     const _k = {};
-
-    // --- 🕵️ 隠蔽ポイント1: 座標の「暗号化計算」 ---
-    // 建物の位置を「300」とかで指定せず、IDから複雑な計算で導き出す
+    
     function _getPos(id) {
         const _m = [3.2, 12.8]; // 基準係数
         return (id * _m[0] * 100) + (Math.sin(id) * 50);
@@ -70,11 +68,9 @@ stranger_day_map = """
         // 地面
         ctx.fillStyle = "#1a0d00"; ctx.fillRect(0, ch * 0.7, cw, ch * 0.3);
 
-        // --- 🕵️ 隠蔽ポイント2: 背景描画をループ化して構造を隠す ---
         ctx.save();
         ctx.translate(-_wx * 0.3, 0);
         
-        // 建物データを配列ではなく、その場計算で描画
         [0.94, 4.68].forEach((_id, i) => {
             const _x = _getPos(_id);
             const _label = i === 0 ? "GENERAL STORE" : "🏠 MY HOME";
@@ -93,7 +89,6 @@ stranger_day_map = """
         ctx.fill();
         ctx.restore();
 
-        // 内部関数化して外部からのアクセスを遮断
         function _renderStructure(x, y, w, h, txt, col) {
             ctx.save();
             ctx.translate(x, y + h); ctx.scale(3, 0.4); ctx.rotate(0.8);
