@@ -43,3 +43,9 @@ Watch a lone cow walk eternally through a nostalgic, lo-fi sunset. No goals, no 
 - **Language**: Python
 - **Framework**: Streamlit
 - **Rendering**: HTML5 Canvas & JavaScript
+
+- **2026-02-26 (v2.2.0)**:
+  - **Atmospheric Engine Upgrade**: Reconstructed the parallax scrolling logic for smoother "Summer of '84" visuals.
+  - **Procedural Object Mapping**: Implemented an internal ID-based positioning system to optimize world rendering.
+  - **Full Immersive Mode**: Enhanced CSS overrides to provide a 100% distraction-free aesthetic (Removed all native UI elements).
+  - **Grain & Shadow Optimization**: Improved post-processing effects and dynamic shadow scaling for a more nostalgic 8-bit feel.
