@@ -1,4 +1,18 @@
 # 🐄 SUMMER OF '84 - Ambient Wallpaper
+
+A quiet corner of the Hyper Cow universe.
+
+Bringing the endless sunset of 1984 to your browser.
+
+After market volatility and gravity experiments,
+the cow just walks home.
+
+No scores.
+No crashes.
+No earnings reports.
+
+Just an eternal lo-fi sunset.
+
 1984年の、あの終わらない夕暮れをブラウザに。
 
 ## 🌟 概要
