@@ -1,53 +1,38 @@
-# 🐄 SUMMER OF '84 - Ambient Wallpaper
+🐄 Summer of '84: The Glitched Cow (v2.1)
 
-A quiet corner of the Hyper Cow universe.
 
-Bringing the endless sunset of 1984 to your browser.
+"A nostalgic stroll through 1984... until the reality cracks."
 
-After market volatility and gravity experiments,
-the cow just walks home.
+📜 Overview
+This is an interactive Streamlit-based animation engine. What appears to be a peaceful sunset walk home is actually a fragile digital construct. In version 2.1, the "Noise" has finally broken through.
 
-No scores.
-No crashes.
-No earnings reports.
+🌑 The "Upside Down" Update (v2.1)
+Atmospheric Warp: Journey deep enough into the path, and the world undergoes a violent phase shift. The sky bleeds red, and the music of the spheres is replaced by the roar of digital noise.
 
-Just an eternal lo-fi sunset.
+The Cow's Mind: The Cow is no longer a silent protagonist. Trapped in the glitch, she now mutters haunting observations. (10+ randomized eerie quotes).
 
-1984年の、あの終わらない夕暮れをブラウザに。
+Visual Corruption: Integrated real-time screen tearing and color inversion to simulate a failing hardware environment.
 
-## 🌟 概要
-忙しい作業の合間に、ふと眺めるための「動く壁紙」アプリです。
-牛が夕暮れの中をゆっくりと、永遠に歩き続けます。
+Cinematic Finale: A dedicated "To Be Continued" sequence for those who survive the walk.
 
-## 🎮 操作方法
-- **眺めるだけ**: 何もしなくても牛は歩き続けます。
-- **A / D キー**: 牛の向きを変えたり、少し急いだりできます。
+🛠️ Technical Breakdown
+Hybrid Architecture: Combines the ease of Python (Streamlit) with the high-speed rendering of JavaScript (HTML5 Canvas).
 
-## 🚀 遊び方
-Streamlit Community Cloudで公開！
+Remote Asset Injection: Assets are pulled dynamically from the my-assets repository.
 
-# 🐄 SUMMER OF '84 - Ambient Wallpaper
-Bringing the endless sunset of 1984 to your browser.
+State Machine Logic: Uses a custom isWarped flag to switch the entire rendering pipeline from "Nostalgic Sunset" to "Cyberpunk Horror" in real-time.
 
-## 🌟 Overview
-This is an "ambient wallpaper" app designed to be gazed at during work or study. 
-Watch a lone cow walk eternally through a nostalgic, lo-fi sunset. No goals, no stress—just pure nostalgia.
+Parallax Layers: Three layers of depth (Structures, Road, and Particles) moving at independent speeds for a pseudo-3D feel.
 
-## 🎮 How to Enjoy
-- **Just Watch**: The cow walks automatically. Sit back and enjoy the atmosphere.
-- **Controls**: 
-  - **A / D keys**: Change the cow's direction or move a bit faster.
-- **Full Screen**: Press **F11** in your browser to turn your monitor into a window to 1984.
+🕵️‍♂️ Message to the 70 "Infiltrators"
+I know you found the Asset Storage. I’ve seen the clones. I know you've been digging through the raw sprites.
 
-## 🚀 Tech Stack
-- **Language**: Python
-- **Framework**: Streamlit
-- **Rendering**: HTML5 Canvas & JavaScript
+You took the loot, now see how it looks in action.
 
-🛠 Update History
+"1 Star = 1 Digital Treat for the Cow."
+Keep her sane. Keep her fed. Or leave her to the Red Sky.
 
-- **2026-02-26 (v2.2.0)**:
-  - **Atmospheric Engine Upgrade**: Reconstructed the parallax scrolling logic for smoother "Summer of '84" visuals.
-  - **Procedural Object Mapping**: Implemented an internal ID-based positioning system to optimize world rendering.
-  - **Full Immersive Mode**: Enhanced CSS overrides to provide a 100% distraction-free aesthetic (Removed all native UI elements).
-  - **Grain & Shadow Optimization**: Improved post-processing effects and dynamic shadow scaling for a more nostalgic 8-bit feel.
+🎮 Controls
+Move: A / D or Arrow Keys
+
+The Door: Find the portal. Change the world.
