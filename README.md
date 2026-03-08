@@ -1,5 +1,7 @@
 🐄 Summer of '84: The Glitched Cow (v2.1)
 
+<img width="1891" height="938" alt="牛2026-03-08 141443" src="https://github.com/user-attachments/assets/c729865d-d995-44d6-adeb-821f7cd529a0" />
+
 
 "A nostalgic stroll through 1984... until the reality cracks."
 
