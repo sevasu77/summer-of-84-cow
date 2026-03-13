@@ -29,6 +29,12 @@ Parallax Layers: Three layers of depth (Structures, Road, and Particles) moving 
 🕵️‍♂️ Message to the 70 "Infiltrators"
 I know you found the Asset Storage. I’ve seen the clones. I know you've been digging through the raw sprites.
 
+## Project Metrics
+
+GitHub Traffic analytics:
+
+- 47 clones in the first day after release
+
 You took the loot, now see how it looks in action.
 
 "1 Star = 1 Digital Treat for the Cow."
